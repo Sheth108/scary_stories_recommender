@@ -1,6 +1,6 @@
 # Recommending Scary Stories Using Natural Language Processing
 
-In this project, I scraped six different types of scary stories from the same thought-catalog.com. These stories range from real life horrible happenings such as true abduction tales to seemingly less true stories involving ghosts and superstitions. The stories were then modeled into different topics, which were then used to create a recommender system for a user. Below is a short description of the purpose of each file.
+In this project, I scraped hundreds of scary stories among six different types of scary stories from thought-catalog.com. These stories range from real life horrible happenings such as true abduction tales to seemingly less true stories involving ghosts and superstitions. The stories were then modeled into different topics, which were then used to create a recommender system for a user. Below is a short description of the purpose of each file.
 
 ## Scrape All Stories
 
