@@ -4,7 +4,7 @@ In this project, I scraped six different types of scary stories from the same th
 
 ## Scrape All Stories
 
-A simple scraping function is created to retrieve the html of the chosen website, and after this many different functions were created in order to separate the different stories as well as clean them. In the end, the stories are all put into a list and pickled to be used for modeling.
+A simple scraping function is created to retrieve the html of the chosen website, and after this many different functions were created in order to separate the different stories as well as clean them. Some of the sites required the same functions to clean the stories, and some required different ones. In the end, the stories are all put into a list and pickled to be used for modeling.
 
 ## Modeling
 
